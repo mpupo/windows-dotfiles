@@ -1,0 +1,1 @@
+choco install -y f.lux.install
